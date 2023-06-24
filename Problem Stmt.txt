@@ -1,0 +1,9 @@
+The data basically aims to predict the individual healthcare expenses given age, family details, BMI, gender. 
+
+The particular dataset is chosen because it contains different input variables so you will learn how to access different inputs from the front end using a flask. 
+
+Our main aim here is not for implementing any generalized machine learning model. 
+
+our main aim is to understand the development of flask applications for any machine learning model.
+
+https://www.kaggle.com/datasets/mirichoi0218/insurance
